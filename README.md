@@ -30,7 +30,7 @@ Skills here are:
 ## Skills
 
 <!-- SKILLS:START -->
-
+- **[Sql Inventory From Code](skills/sql-inventory-from-code/SKILL.md)** — Collects and maintains a complete CSV-based SQL query inventory (SSOT) by extracting all SQL statements from a service application's source code. This skill's only deliverable is the inventory CSV. Use when extracting SQL from application source code, building a query inventory from the codebase, or preparing for SQL tuning from code.
 <!-- SKILLS:END -->
 
 Additional skills (e.g. API documentation, performance analysis, system docs) will be added over time.
